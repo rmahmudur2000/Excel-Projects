@@ -1,4 +1,44 @@
-**Project 1: Bike Sales**
+**Project 1: Coffee Sales**
+
+**Situation**
+
+I have been working on a project involving the analysis of coffee sales data. The dataset comprises multiple CSV files, each containing different aspects of the sales data, such as yearly sales, customer information, order details, and product pricing.
+
+**Task**
+
+My task was to analyze the provided datasets to extract meaningful insights about coffee sales, customer behavior, and product performance. The goal was to identify trends, high-performing products, and key customer segments.
+
+**Action**
+
+Data Compilation: Gathered data from six different CSV files, each containing specific information about coffee sales, customers, and products.
+
+Data Cleaning: Ensured data consistency by converting string types to appropriate numerical types where necessary.
+
+Trend Analysis: Analyzed sales trends over the years and months to identify peak sales periods.
+
+Customer Segmentation: Segmented customers based on their purchase history and loyalty card usage.
+
+Product Performance: Evaluated the performance of different coffee types and roast types by analyzing sales and profit margins.
+
+Geographical Insights: Assessed sales distribution across different countries to identify key markets.
+
+**Result**
+
+Sales Trends: Identified that sales have been increasing year over year, with notable peaks in certain months.
+
+Top Customers: Recognized key customers contributing significantly to sales, such as Brenn Dundredge and Nealson Cuttler.
+
+Product Insights: Found that Arabica and Robusta are the most popular coffee types, with medium roast being the preferred roast type.
+
+Geographical Distribution: The United States emerged as the largest market, followed by Ireland and the United Kingdom.
+
+Profit Margins: Determined that larger package sizes tend to have better profit margins, with specific products like 'A-L-2.5' showing high profitability.
+
+These insights can help in strategic decision-making, such as targeted marketing campaigns, inventory management, and product development.
+
+
+
+**Project 2: Bike Sales**
 
 **Situation**
 The company wanted to understand the factors influencing bike purchases among potential customers. This involved analyzing a comprehensive dataset containing demographic and lifestyle information of individuals, including their purchasing behavior.
