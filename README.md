@@ -32,6 +32,7 @@ Home Ownership and Car Ownership: Examined how home ownership and the number of 
 Education and Occupation: Evaluated the diversity in education levels and occupations, ranging from skilled manual workers to professionals, to understand how these factors might correlate with purchasing decisions and income levels.
 
 **Result**
+
 The analysis provided several key insights:
 
 Males and individuals with higher incomes are more likely to purchase bikes.
